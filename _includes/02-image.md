@@ -1,1 +1,1 @@
-![Juansa Collins](https://drive.google.com/file/d/1KuRDQ-0BpuEm824v2Psve9cTy58jISxT/view?usp=sharing)
+![Juansa Collins](https://github.com/JuansaCollins/markdown-portfolio//IMG_0034.jpg)
