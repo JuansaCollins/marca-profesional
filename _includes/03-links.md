@@ -1,1 +1,1 @@
-https://www.linkedin.com/juansamuelcollins
+[LinkedIn Juansa Collins](https://www.linkedin.com/in/juansamuelcollins)
