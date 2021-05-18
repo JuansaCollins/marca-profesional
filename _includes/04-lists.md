@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+This is my new list of fruits:
+* 🥭
+* 🍎
+* 🍑
