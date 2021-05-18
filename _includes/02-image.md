@@ -1,1 +1,1 @@
-<img src="./IMG_0034.jpg" alt="Juansa Collins" width="200"/>
+<img src="./tu_foto.jpg" alt="Juansa Collins" width="200"/>
