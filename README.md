@@ -5,7 +5,7 @@ Bienvenido a **tu repositorio** donde podrás plasmar tu GitHub en internet, lo 
 Antes de que puedas hacer uso de este material, en necesario que crees una cuenta de GitHub. Tal vez suena mucho rollo para solamente un recurso, pero si puedes configurar tu página profesional en 10 minutos, imagínate todo lo que puedes hacer utilizando GitHub Pages: blogs, un repositorio para tu CV, landing page para tu marca profesional, etc.
 
 * Una vez que tengas tu cuenta de GitHub, haz click en el botón verde **Use this template** localizando en la parte superior. Nombra el nuevo repositorio como "marca-profesional". No importa si seleccionas público o privado, da click en crear repositorio.
-* **Activa GitHub Pages** haciendo click en Settings (Configuración) y en la columna de la izquierda selecciona **Pages**. En **Source** selecciona _main_ del menú desplegable y selecciona **save**. 🥳🥳 ¡Listo tu página está lista para ser configurada! El link para tu página tendrá la siguiente forma "https://github_usrnm.github.io/nombre_repositorio"
+* **Activa GitHub Pages** haciendo click en Settings (Configuración) y en la columna de la izquierda selecciona **Pages**. En **Source** selecciona _main_ del menú desplegable y selecciona **save**. 🥳🥳 ¡Listo tu página está lista para ser configurada! El link para tu página tendrá la siguiente forma https://github_nombre_usuario.github.io/nombre_repositorio
 
 Este es mi regalo para la clase de _Construyendo mi Marca Profesional_, donde podrás plasmar la marca que has desarrollado durante la clase.
 
