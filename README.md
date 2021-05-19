@@ -1,14 +1,15 @@
-## Tu página de GitHub para tu marca profesional
+## Tu página de GitHub para tu marca profesional en 10 minutos ##
 
 Bienvenido a **tu repositorio** donde podrás plasmar tu GitHub en internet, lo cuál podrás añadir a tu CV y potencialmente te ayudará en tu etapa profesional.
 
 Antes de que puedas hacer uso de este material, en necesario que crees una cuenta de GitHub. Tal vez suena mucho rollo para solamente un recurso, pero si puedes configurar tu página profesional en 10 minutos, imagínate todo lo que puedes hacer utilizando GitHub Pages: blogs, un repositorio para tu CV, landing page para tu marca profesional, etc.
 
-Una vez que tengas tu cuenta de GitHub, haz click en el botón verde "Use this template" localizando en la parte superior.
+* Una vez que tengas tu cuenta de GitHub, haz click en el botón verde **Use this template** localizando en la parte superior. Nombra el nuevo repositorio como "marca-profesional". No importa si seleccionas público o privado, da click en crear repositorio.
+* **Activa GitHub Pages** haciendo click en Settings (Configuración) y en la columna de la izquierda selecciona **Pages**. En **Source** selecciona _main_ del menú desplegable y selecciona **save**. 🥳🥳 ¡Listo tu página está lista para ser configurada! El link para tu página tendrá la siguiente forma "https://github_usrnm.github.io/nombre_repositorio"
 
 Este es mi regalo para la clase de _Construyendo mi Marca Profesional_, donde podrás plasmar la marca que has desarrollado durante la clase.
 
-Lo único que tienes que hacer para personalizar tu página de marca profesional es cambiar la siguiente información que se encuentra de manera predeterminada. Sigue los siguientes pasos:
+Lo único que tienes que hacer para **personalizar tu página** de marca profesional es cambiar la siguiente información que se encuentra de manera predeterminada. Sigue los siguientes pasos:
 1. Actualmente, te encuentras en el directorio llamado _/marca-profesional_ (puedes observarlo en la parte superior), sube una fotografía tuya a esta carpeta y recuerda el nombre del archivo ya que lo utilizarás para editar tu foto.
 2. Haz click en la carpeta con el nombre _\_includes_, donde encontrarás 5 distintos archivos.
 3. Personaliza tu **nombre**: haz click en el primer archivo llamado _01-name.md_ y posteriormente al símbolo de ✏️ localizado en la esquina superior derecha. Ahora podrás editar. Cambia el texto "TU NOMBRE" por el nombre que te gustaría que estuviera localizado como título. Asegúrate solamente cambiar el texto del centro.
