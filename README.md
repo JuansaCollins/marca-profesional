@@ -7,7 +7,7 @@ Antes de que puedas hacer uso de este material, en necesario que crees una cuent
 * Una vez que tengas tu cuenta de GitHub, haz click en el botón verde **Use this template** localizando en la parte superior. Nombra el nuevo repositorio como "marca-profesional". No importa si seleccionas público o privado, da click en crear repositorio.
 * **Activa GitHub Pages** haciendo click en Settings (Configuración) y en la columna de la izquierda selecciona **Pages**. En **Source** selecciona _main_ del menú desplegable y selecciona **save**. 🥳🥳 ¡Listo tu página está lista para ser configurada! El link para tu página tendrá la siguiente forma https://github_nombre_usuario.github.io/nombre_repositorio
 
-Este es mi regalo para la clase de _Construyendo mi Marca Profesional_, donde podrás plasmar la marca que has desarrollado durante la clase.
+Este es mi 🎁 para la clase de _Construyendo mi Marca Profesional_, donde podrás plasmar la marca que has desarrollado durante la clase.
 
 Lo único que tienes que hacer para **personalizar tu página** de marca profesional es cambiar la siguiente información que se encuentra de manera predeterminada. Sigue los siguientes pasos:
 1. Actualmente, te encuentras en el directorio llamado _/marca-profesional_ (puedes observarlo en la parte superior), sube una fotografía tuya a esta carpeta y recuerda el nombre del archivo ya que lo utilizarás para editar tu foto.
