@@ -1,4 +1,4 @@
-This is my new list of fruits:
-* 🥭
-* 🍎
-* 🍑
+Enlista tus diferenciadores:
+* Diferenciador :one:
+* Diferenciador :two:
+* Diferenciador :three:
