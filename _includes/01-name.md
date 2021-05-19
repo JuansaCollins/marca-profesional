@@ -1,1 +1,1 @@
-# Juan Samuel Collins Rmz.
+# <div align="center"> Juan Samuel Collins Rmz. </div>
