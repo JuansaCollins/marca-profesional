@@ -3,5 +3,3 @@ Puedes utilizar esta plantilla para plasmar tu marca profesional, producto de lo
 Te recomiendo que escribas tu marca profesional en **negritas** utilizando dos asteriscos \*\*
 
 Resalta palabras *importantes* en tu motivación utilizando un asterisco \*.
-
-Write out some of your **_awesome attributes_**, and use emphasis (like **bold** or *italics*) to identify keywords, programming languages, or skills. 
